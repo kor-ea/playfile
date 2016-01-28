@@ -6,7 +6,6 @@ use Digest::MD5 'md5_hex';
 use Data::Dumper;
 use Config::Simple;
 use strict;
-#fdasdfs
 
 
 # Get the command line parameters
